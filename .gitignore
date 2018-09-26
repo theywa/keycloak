@@ -1,0 +1,4 @@
+server.log
+server.log.*
+logging.properties
+standalone/data/*
